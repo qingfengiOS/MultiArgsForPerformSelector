@@ -15,6 +15,7 @@
 		FDFFA44D20CE800200B3BCD3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FDFFA44C20CE800200B3BCD3 /* main.m */; };
 		FDFFA45720CE800200B3BCD3 /* MultiArgsForPerformSelectorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FDFFA45620CE800200B3BCD3 /* MultiArgsForPerformSelectorTests.m */; };
 		FDFFA46220CE800200B3BCD3 /* MultiArgsForPerformSelectorUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FDFFA46120CE800200B3BCD3 /* MultiArgsForPerformSelectorUITests.m */; };
+		FDFFA47120CE802E00B3BCD3 /* QFPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = FDFFA47020CE802E00B3BCD3 /* QFPerson.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		FDFFA45D20CE800200B3BCD3 /* MultiArgsForPerformSelectorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MultiArgsForPerformSelectorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDFFA46120CE800200B3BCD3 /* MultiArgsForPerformSelectorUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MultiArgsForPerformSelectorUITests.m; sourceTree = "<group>"; };
 		FDFFA46320CE800200B3BCD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FDFFA46F20CE802E00B3BCD3 /* QFPerson.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QFPerson.h; sourceTree = "<group>"; };
+		FDFFA47020CE802E00B3BCD3 /* QFPerson.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QFPerson.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				FDFFA43E20CE800100B3BCD3 /* AppDelegate.m */,
 				FDFFA44020CE800100B3BCD3 /* ViewController.h */,
 				FDFFA44120CE800100B3BCD3 /* ViewController.m */,
+				FDFFA46F20CE802E00B3BCD3 /* QFPerson.h */,
+				FDFFA47020CE802E00B3BCD3 /* QFPerson.m */,
 				FDFFA44320CE800100B3BCD3 /* Main.storyboard */,
 				FDFFA44620CE800200B3BCD3 /* Assets.xcassets */,
 				FDFFA44820CE800200B3BCD3 /* LaunchScreen.storyboard */,
@@ -265,6 +270,7 @@
 				FDFFA44220CE800100B3BCD3 /* ViewController.m in Sources */,
 				FDFFA44D20CE800200B3BCD3 /* main.m in Sources */,
 				FDFFA43F20CE800100B3BCD3 /* AppDelegate.m in Sources */,
+				FDFFA47120CE802E00B3BCD3 /* QFPerson.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
